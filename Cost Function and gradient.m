@@ -59,7 +59,7 @@ grad(1,2:end)=grad(1,2:end)+(lambda/m).*(theta(2:end))';% theta is 28x1 matrice
 %     end
 %  end
 
-
+grad=gard(:);
 % =============================================================
 
 
